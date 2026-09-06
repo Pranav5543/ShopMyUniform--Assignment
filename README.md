@@ -240,7 +240,7 @@ key (unique) [delivery|returns|sizing-guide|payment], title, content
 ---
 
 ## 7. API Endpoints
-
+*(Note: In the tables below, a **✅ in the Auth column** means the user must be logged in to use the API. A **—** means the API is public and can be accessed by anyone without logging in.)*
 ### Auth
 
 | Method | Path                   | Auth | Description                                       |
